@@ -1,0 +1,10 @@
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\bin\Debug\Kalkulator windowsowy.exe.config
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\bin\Debug\Kalkulator windowsowy.exe
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\bin\Debug\Kalkulator windowsowy.pdb
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\obj\Debug\Kalkulator windowsowy.csproj.AssemblyReference.cache
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\obj\Debug\Kalkulator_windowsowy.Form1.resources
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\obj\Debug\Kalkulator_windowsowy.Properties.Resources.resources
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\obj\Debug\Kalkulator windowsowy.csproj.GenerateResource.cache
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\obj\Debug\Kalkulator windowsowy.csproj.CoreCompileInputs.cache
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\obj\Debug\Kalkulator windowsowy.exe
+C:\Users\grege\source\repos\Kalkulator windowsowy\Kalkulator windowsowy\obj\Debug\Kalkulator windowsowy.pdb
